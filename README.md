@@ -81,26 +81,26 @@ Smart-Expense-Tracker/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/Kanchan-Arya/smart-expense-tracker.git
 cd smart-expense-tracker
 ```
 
-### 2. Install Dependencies
+### 2️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start the Development Server
+### 3️⃣ Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-### 4. Open the Application
+### 4️⃣  Open the Application
 
 Open the localhost URL displayed in your terminal, usually:
 
