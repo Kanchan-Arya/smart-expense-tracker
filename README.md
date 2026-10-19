@@ -102,7 +102,7 @@ npm run dev
 
 ### 4️⃣  Open the Application
 
-Open the URL of localhost displayed in your terminal, usually:
+Open the localhost URL displayed in your terminal, usually:
 
 ```text
 http://localhost:5173
